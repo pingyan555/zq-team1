@@ -1,0 +1,35 @@
+<launch>
+  <!-- DashGo底盘驱动，文件真实位置：launch/include/ -->
+  <include file="$(find dashgo_nav)/launch/include/dashgo_bringup.launch"/>
+  <!-- YDLIDAR激光雷达，文件真实位置：launch/include/ -->
+  <include file="$(find dashgo_nav)/launch/include/ydlidar.launch"/>
+
+  <arg name="scan_topic" default="scan"/>
+
+  <!-- gmapping slam节点 -->
+  <node pkg="gmapping" type="slam_gmapping" name="slam_gmapping" output="screen">
+    <param name="scan_topic" value="$(arg scan_topic)"/>
+    <param name="odom_frame" value="odom"/>
+    <param name="map_update_interval" value="0.1"/>
+    <param name="maxRange" value="5.0"/>
+    <param name="maxUrange" value="4.5"/>
+    <param name="sigma" value="0.05"/>
+    <param name="kernelSize" value="1"/>
+    <param name="lstep" value="0.05"/>
+    <param name="astep" value="0.05"/>
+    <param name="iterations" value="5"/>
+    <param name="lsigma" value="0.075"/>
+    <param name="ogain" value="3.0"/>
+    <param name="lskip" value="0"/>
+    <param name="srr" value="0.01"/>
+    <param name="srt" value="0.02"/>
+    <param name="str" value="0.01"/>
+    <param name="stt" value="0.02"/>
+    <param name="minimumScore" value="30"/>
+    <param name="linearUpdate" value="0.05"/>
+    <param name="angularUpdate" value="0.0436"/>
+    <param name="temporalUpdate" value="-1.0"/>
+    <param name="resampleThreshold" value="0.5"/>
+  </node>
+</launch>
+

@@ -1,0 +1,210 @@
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/t.pgm",
+  "isUsed": false,
+  "id": "2018-07-30_15:37:30",
+  "name": "t"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/080402.pgm",
+  "isUsed": false,
+  "id": "2018-08-04_09:57:56",
+  "name": "080402"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/n1.pgm",
+  "id": "2018-08-23_11:19:27",
+  "name": "n1",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/yanfabu1.pgm",
+  "isUsed": false,
+  "id": "2018-08-07_11:16:22",
+  "name": "yanfabu1"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/0808001.pgm",
+  "isUsed": false,
+  "id": "2018-08-08_18:10:46",
+  "name": "0808001"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/rr.pgm",
+  "id": "2018-08-09_15:28:43",
+  "name": "rr",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/n2.pgm",
+  "id": "2018-08-10_10:42:46",
+  "name": "n2",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/N3.pgm",
+  "id": "2018-08-13_20:53:07",
+  "name": "N3",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/map0813.pgm",
+  "isUsed": false,
+  "id": "2018-08-13_20:55:02",
+  "name": "map0813"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/081401.pgm",
+  "id": "2018-08-14_12:19:05",
+  "name": "081401",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/082001.pgm",
+  "id": "2018-08-20_09:47:58",
+  "name": "082001",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/n.pgm",
+  "isUsed": false,
+  "id": "2018-08-21_14:54:28",
+  "name": "n"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/082301.pgm",
+  "id": "2018-08-23_09:49:31",
+  "name": "082301",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/k2.pgm",
+  "isUsed": false,
+  "id": "2018-09-04_17:27:03",
+  "name": "k2"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/09101.pgm",
+  "id": "2018-09-10_11:25:28",
+  "name": "09101",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/091101.pgm",
+  "isUsed": false,
+  "id": "2018-09-11_11:18:11",
+  "name": "091101"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/091501.pgm",
+  "id": "2018-09-15_19:53:45",
+  "name": "091501",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/test091801.pgm",
+  "isUsed": false,
+  "id": "2018-09-18_20:54:55",
+  "name": "test091801"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/091901.pgm",
+  "id": "2018-09-19_09:47:10",
+  "name": "091901",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/winmap.pgm",
+  "isUsed": false,
+  "id": "2019-05-25_16:32:17",
+  "name": "winmap"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/zoulang0616.pgm",
+  "isUsed": false,
+  "id": "2019-05-25_16:32:20",
+  "name": "zoulang0616"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/zhanshi20190623.pgm",
+  "isUsed": false,
+  "id": "2019-06-23_00:17:13",
+  "name": "zhanshi20190623"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/731.pgm",
+  "id": "2019-07-31_09:44:07",
+  "name": "731",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/302bgs.pgm",
+  "isUsed": false,
+  "id": "2019-08-22_22:05:16",
+  "name": "302bgs"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/20190903.pgm",
+  "id": "2019-09-03_16:35:36",
+  "name": "20190903",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/66.pgm",
+  "isUsed": false,
+  "id": "2019-09-03_17:12:50",
+  "name": "66"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/shiyanshi.pgm",
+  "id": "2020-01-01_19:08:22",
+  "name": "shiyanshi",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/1.pgm",
+  "isUsed": false,
+  "id": "2016-02-12_02:04:04",
+  "name": "1"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/2.pgm",
+  "id": "2019-12-30_21:26:32",
+  "name": "2",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/yuhao1.pgm",
+  "id": "2020-01-01_19:12:06",
+  "name": "yuhao1",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/map.pgm",
+  "isUsed": false,
+  "id": "2020-01-03_18:42:08",
+  "name": "map"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/map1.pgm",
+  "id": "2020-01-03_18:51:07",
+  "name": "map1",
+  "isUsed": false
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/map2.pgm",
+  "isUsed": false,
+  "id": "2020-01-03_18:57:40",
+  "name": "map2"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/jbw_zoulang.pgm",
+  "isUsed": false,
+  "id": "2016-02-12_00:42:54",
+  "name": "jbw_zoulang"
+}
+{
+  "path": "/home/eaibot/dashgo_ws/src/dashgo/dashgo_nav/maps/just_try.pgm",
+  "isUsed": true,
+  "id": "2020-10-12_16:30:24",
+  "name": "just_try"
+}
