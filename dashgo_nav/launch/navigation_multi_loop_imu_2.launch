@@ -1,7 +1,7 @@
 <launch>
   <include file="$(find dashgo_driver)/launch/driver_imu.launch"/>
   <include file="$(find ydlidar_ros_driver)/launch/dashgo_up.launch"/>
-  <include file="$(find ydlidar)/launch/ydlidar2_down.launch"/>
+  <include file="$(find ydlidar_ros_driver)/launch/dashgo_down.launch"/>
   <include file="$(find dashgo_description)/launch/dashgo_description.launch"/>
   <arg name="map_file" default="$(find dashgo_nav)/maps/eai_map_imu.yaml"/>
   <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)" />
